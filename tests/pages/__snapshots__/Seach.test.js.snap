@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <SearchPage /> debe de mostrarse correactamente con valores por defecto 1`] = `
+<div>
+  <form
+    aria-label="form"
+  >
+    <input
+      autocomplete="off"
+      name="seachText"
+      placeholder="Buscar tu NFT"
+      type="text"
+      value=""
+    />
+    <button
+      type="submit"
+    >
+      Buscar
+    </button>
+  </form>
+</div>
+`;
